@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T05:23:25.033Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="3Ek4TxSqaEe4e2NppRNt" version="14.8.4" type="github"><diagram id="_gi2yk1AkfxAzePPXX8b" name="Page-1">3Vjbbts4EP0aPiaQKIuSHiVbbgu0iyyyi15eCsZibCKSqKXo2O7X75CibOvS2i1cNwgQIORwOCTPnLlYyJsW2zeSVqsPImM5wk62Rd4MYexOMEb6z8l2jSQgVrCUPLNKB8E9/8as0LHSNc9Y3VFUQuSKV13hQpQlW6iOjEopNl21R5F3T63okg0E9wuaD6UfeaZWjTTEwUH+lvHlqj3ZJVGzUtBW2b6kXtFMbI5EXoq8qRRCNaNiO2W5Bq/Fpdk3/87q/mKSleqcDfPP7/jd05enr9l7ST7+Xf+z+qJurJVnmq/tg+OFEtLeWO1aGODylR6ui7xR8JJnJhUHoN7TB5bfiZorLkpQeRBKieJIIc75Ui8oUYF0pYocJi4MxVrlvGTTvescEA6f1d4RzLHtkcg+8w0TBVNyByp2NbKIW8q57XxzcKBnRasj3xEro5Yyy73hA6owsMD+BMjeAOQBvqzMYs1WmC1yWtd80YXqu6jUYi0X7LSHWdbh+RC7I3D8EXBamWQ5Vfy5Gx1jiNkT7gSHG+9d4+Kub3DQA715j911zOaeITzpGcI9Q4rKJVMDQ8aB+2f/uk8nQ5+mAYomKA5RSlAYoiSwksRDaYjiuZHAUoQikPgonKHE0TpJjJJQ6yTNdliao8jVS7GvJX22QByoLj+ojbEF8IPJkeAreJbp7YlkNf9GH4wpHW+VRshg5ifIn2lbawXRbBKxNl0rKZ4gSHMd9bNSlOwyUdqnwliYupMRKvY9fbE49U/HqRTrMmOZhWaz4ordV9QE4AYK4JlBez5I+6T0I5DwNZMZGSE+QdFU01kzN0Zxw9xEU/5VMndQYMjQKWM59LcRN/yTBcZ/UQXGCy9UYPx+pbpygXGHrRnCJNfRU1e0hJWclkuzQP5b6yYySf+6+ff+MO0QoBU+ilLdNDESg4Lr3PqVOt5Dlua/rkYOCr2jqgaVbIZixwwguKdmKUbhhJfPggOm0kBBaKHzYPlQV43BvDE8b65t7b/KxNAn32i2JtfMDC7+mZrmXKWm+d5Lq2nuSIeuA2CuqQ9FLUpQlO7pPtbEEVP4fFMKYRy8Tn4PPOePeM65Kr9HejbdbIMP3DE/DVrrg1ObXt3X22GqdaBjh7ZmahJeqB2sOZGiJNJ24lQb12d5KPSNDtgh5lA4Ats0mZABFU5EGK2r5tfwI9/qqLyI44Ku4ybO0HHhiN/C3+U3fEZeOtWyABxy90nHxC322/lnGyNmMtt2Zjt04hPD6R/T9pZN7T+Dly+kK/J7Havn/GpX1DeEndvAdUgQum5I/ElALtQkwfTwaaxRP3xg9NL/AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-07T05:23:53.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="2MQhZ_rIcXT1XHrugBsb" version="14.8.4" type="github">
+  <diagram id="_gi2yk1AkfxAzePPXX8b" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FYIiPkZk_dLr6WQsThZt-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FYIiPkZk_dLr6WQsThZt-3" value="" style="endArrow=classic;html=1;" parent="1" source="FYIiPkZk_dLr6WQsThZt-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="270" as="sourcePoint" />
+            <mxPoint x="240" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FYIiPkZk_dLr6WQsThZt-4" value="用户申请打印纸质发票" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="120" y="190" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FYIiPkZk_dLr6WQsThZt-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FYIiPkZk_dLr6WQsThZt-6" value="服务端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="290" y="160" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FYIiPkZk_dLr6WQsThZt-8" value="" style="endArrow=classic;html=1;" parent="1" source="FYIiPkZk_dLr6WQsThZt-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="270" as="sourcePoint" />
+            <mxPoint x="520" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FYIiPkZk_dLr6WQsThZt-11" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 10.5pt&quot;&gt;调用你们的invoicePrint&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="380" y="190" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FYIiPkZk_dLr6WQsThZt-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FYIiPkZk_dLr6WQsThZt-13" value="返回的打印报文" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="530" y="150" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FYIiPkZk_dLr6WQsThZt-15" value="要打印发票的电脑，上边安装了插件" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="570" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FYIiPkZk_dLr6WQsThZt-22" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FYIiPkZk_dLr6WQsThZt-12" target="FYIiPkZk_dLr6WQsThZt-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="300" as="sourcePoint" />
+            <mxPoint x="590" y="320.71067811865476" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
